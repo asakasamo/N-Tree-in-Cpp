@@ -1,0 +1,20 @@
+
+This assignment is due at 11:59pm on Thursday, April 21. Four total late days are available to you for
+this course. One point will be deducted for each unexcused late day. Homework submissions will not be
+accepted after 11:59pm on Thursday, April 29.
+
+Description
+• Implement a tree with an arbitrary number of children.
+• Write a method serialize, which writes the tree to a text file, and deserialize, which reads a tree
+from a text file.
+• Implement the other methods required by main.
+• Test your tree with main.
+
+Submission
+
+In Blackboard, submit
+
+• Your Ntree.h
+• Any other related files.
+
+Make sure your code has your name in a comment at the beginning of each file.
